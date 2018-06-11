@@ -1,2 +1,1 @@
 # MFCC_MATLAB
-This example demonstrates a machine learning approach to identify people based on features extracted from recorded speech. The features used to train the classifier are: pitch of the voiced segments of the speech, and the Mel Frequency Cepstrum Coefficients (MFCC). This is a closed-set speaker identification - the audio of the speaker under test is compared against all the available speaker models (a finite set) and the closest match is returned.
