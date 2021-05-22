@@ -29,7 +29,7 @@ The repository describes the feature extraction methods for Audio signals.
 ## Requirements
 [Anaconda](https://www.anaconda.com/) (Python)
 
-## References & Code source
+## References
 * http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html
 * https://github.com/wiseman/py-webrtcvad
 * https://github.com/jameslyons/python_speech_features
